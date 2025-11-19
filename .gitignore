@@ -22,3 +22,12 @@ __pycache__/
 
 # .env file containing environment variables
 .env
+
+# Specific ignores
+date_fruit_model.pt
+*.pt
+static/images/*
+static/audio/*
+venv/
+__pycache__/
+.env
