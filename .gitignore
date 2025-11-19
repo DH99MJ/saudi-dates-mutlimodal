@@ -19,3 +19,6 @@ __pycache__/
 
 # Model file (large, hosted externally)
 *.pt
+
+# .env file containing environment variables
+.env
